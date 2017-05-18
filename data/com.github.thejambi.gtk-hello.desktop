@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=GTK-Hello
+GenericName=Hello World App
+Comment=Proves that we can follow a tutorial
+Categories=GTK;Utility;
+Exex=com.github.thejambi.gtk-hello
+Icon=application-default-icon
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=gtk-hello
+Keywords=Hello;World;Example;
